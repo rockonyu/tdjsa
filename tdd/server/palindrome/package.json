@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "istanbul": "^0.4.4",
-    "mocha": "^3.0.1"
+    "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
   }
 }
